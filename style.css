@@ -1,0 +1,85 @@
+.logo{
+    width: 300px;
+}
+
+.size{
+    width: 400px;
+}
+.last-back{
+    position: absolute;
+    margin-left: 50px;
+}
+
+.up-back{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.title{
+    font-size: 70px;
+    line-height: 80px;
+    color: #363958;
+}
+.bg-color{
+    background-color: #FFFFF4;
+}
+span{
+    color: #76C27E;
+}
+.text-color{
+    color: #3B3B3B;
+}
+.box-1,.box-2,.box-3{
+    display: flex;
+    margin-bottom: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+}
+.box-img img{
+    width: 80px;
+    margin-right: 40px;
+    margin-left: 30px;
+    ;
+}
+.right-image{
+    width: 600px;
+}
+.button{
+    display: flex;
+    background-color: #2A1E59;
+    border-radius: 10px;
+    margin-left: 25px;
+    align-items: center;
+}
+.icon{
+    color: #fff;
+}
+.card-icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+
+}
+.btn{
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+.heading-color{
+    color: #76C27E;
+}
+.card-boder{
+    border: none;
+}
+.box-1-image,.box-2-image,.box-3-image{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+.card-boder-bg{
+    background: none;
+    border: none;
+}
