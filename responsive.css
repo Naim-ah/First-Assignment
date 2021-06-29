@@ -110,6 +110,9 @@
       margin-top: 20px;
       margin-left: 0px;
     }
+    .box-img {
+      margin-right: 15px;
+  }
     .box-img img {
       width: 40px;
       margin-right: 30px;
@@ -120,6 +123,10 @@
     }
     .icon-text p {
       font-size: 14px;
+    }
+    .card-body h5 {
+      font-size: 18px !important;
+      font-weight: bold !important;
     }
   }
   
