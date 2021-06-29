@@ -1,3 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+body{
+    background-color: #FFFFF4;
+}
+button:focus{
+    box-shadow: none !important;
+}
+button:hover{
+    color: white !important;
+}
+.header-container{
+    padding: 100px 0;
+}
+.services-container{
+    padding-bottom: 100px;
+}
 .logo{
     width: 300px;
 }
@@ -20,9 +43,7 @@
     line-height: 80px;
     color: #363958;
 }
-.bg-color{
-    background-color: #FFFFF4;
-}
+
 span{
     color: #76C27E;
 }
